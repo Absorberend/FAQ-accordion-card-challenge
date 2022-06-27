@@ -1,5 +1,5 @@
 # FAQ accordion card challenge
-This is my solution for the "FAQ accordion card challenge" challenge of Frontend Mentor.
+This is my solution for the "FAQ accordion card" challenge of Frontend Mentor.
 
 You can find the Frontend Mentor challenge here:
 https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam
