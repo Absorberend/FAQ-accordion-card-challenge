@@ -28,6 +28,7 @@ main {
     flex-direction: column;
     margin: 1em auto;
     width: 300px;
+    user-select: none;
 }
 
 main h1 {
